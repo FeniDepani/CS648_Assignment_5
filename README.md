@@ -1,5 +1,5 @@
 # CS648_Assignment_5
-
+This is an assignment of CS-648 C1 - Modern Web Development Framework.
 
 
 1.**npm init -y** is used to create package.json file.

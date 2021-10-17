@@ -14,4 +14,3 @@ This is an assignment of CS-648 C1 - Modern Web Development Framework.
 
 6.**npx gulp** to run gulpfile.js file.
 
-
